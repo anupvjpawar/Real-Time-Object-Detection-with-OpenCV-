@@ -47,6 +47,31 @@ Run the Object Detection Script:
 
 Execute the objectDetection.py script to start the object detection system:
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 bash
 Copy code
 python objectDetection.py
